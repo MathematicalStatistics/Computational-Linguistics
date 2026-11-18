@@ -6,6 +6,7 @@ For the Korean language
 - The magic Korean language formula sheet (no [derivation](https://en.wikipedia.org/wiki/Derivative) needed).
 
 - Korean names have 3 syllables.
+  - First names have 2 syllables while last names have 1. 
 
 - [YouTube Video](https://www.youtube.com/watch?v=TE4eplsFSms) 
 
